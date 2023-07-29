@@ -1,0 +1,22 @@
+{
+    "data" : [
+       
+    
+        {
+            "link" : "https://www.credly.com/badges/90a5d36b-af53-4e19-92a4-8bca43e27784",
+            "name" : "Networking Essentials"
+        },
+        {
+            "link" : "https://www.credly.com/badges/cee1aaad-1d19-4c13-9ad8-f0ee0fd3fba5",
+            "name" : "Google IT Automation Certificate"
+        },
+        {
+            "link" : "https://www.credly.com/badges/c9a53890-3130-41a1-ae4a-d222289ef37a",
+            "name" : "DevOps Essentials"
+        },
+        {
+            "link" : "https://www.credly.com/badges/34b4f587-8e9a-4381-8e63-36b4998769c9",
+            "name" : "Container & Kubernetes Essentials V2"
+        }
+    ]
+}
